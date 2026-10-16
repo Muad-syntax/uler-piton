@@ -1,5 +1,4 @@
-username = str(input("Masukan Username: "))
-password = str(input("Masukan Password: "))
+
 
 
 if(username == 'Ahmad' and password == '123'):
